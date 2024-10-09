@@ -59,7 +59,6 @@ https://github.com/user-attachments/assets/c9af3686-9f20-4ee2-9ec3-b3cf7cf8a833
 
 In this project, I sharpened several skills and gained valuable insights into data professions. 
 
--### Conclusion
 
 - **Tools and Skills Developed:**
   - Through this project, I enhanced my data cleaning and visualization skills, particularly in Power BI, where I learned to create impactful dashboards that convey important insights clearly.
