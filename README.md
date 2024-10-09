@@ -4,9 +4,11 @@ This Power BI project analyzes survey data from professionals in data roles like
 
 # Tools I Used
 
-Excel: For initial data cleaning and exploration.
-Power BI: To model data, create visualizations, and build interactive dashboards.
-Git & GitHub: For version control and project collaboration.
+**Excel**: For initial data cleaning and exploration.
+
+**Power BI**: To model data, create visualizations, and build interactive dashboards.
+
+**Git & GitHub**: For version control and project collaboration.
 
 # Project Demonstration
 
