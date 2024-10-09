@@ -1,6 +1,6 @@
 # Abstract
 
-This Power BI project analyzes survey data from professionals in data roles like data analysts, engineers, scientists, and architects. It provides insights into average salaries, job satisfaction, work-life balance, popular programming languages, and how difficult it is to break into these careers. The dashboard is interactive, allowing users to explore data by country, job role, and satisfaction level, offering a clear picture of the current state of data professions.
+This Power BI project analyzes survey data from professionals in data roles like data analysts, data engineers, data scientists, and data architects. It provides insights into average salaries, job satisfaction, work-life balance, popular programming languages, and how difficult it is to break into these careers. The dashboard is interactive, allowing users to explore data by country, job role, and satisfaction level, offering a clear picture of the current state of data professions.
 
 # Tools I Used
 
